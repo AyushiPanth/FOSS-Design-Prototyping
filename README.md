@@ -19,7 +19,11 @@
 
 - Decide the number of screens that you want to keep. More number of useless screens is not preferred. Add important and useful screens.
 
-- Design low fi wireframes of all the screens on paper. Upload all the screens as a pdf file containing images in jpg or png format.
+- Design low fi wireframes of all the screens on paper. 
+- 
+- Upload all the screens as a pdf file containing images in jpg or png format.
+
+- Create a folder with your name in the repository and add your files in that.
 
 - Example of the UI of a Library Portal website [here](https://ibb.co/J7DzCw9)
 

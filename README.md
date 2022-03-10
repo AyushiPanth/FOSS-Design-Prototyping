@@ -13,6 +13,9 @@
 - IIIT Lucknow App
 - E-Commerce App
 
+### Logo Designing
+- FOSS Weekend
+
 ## Instructions for Level 1
 
 - Sumbit a file of low fi wireframes of all the screens. 

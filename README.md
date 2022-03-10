@@ -15,6 +15,7 @@
 
 ### Logo Designing
 - FOSS Weekend
+- Various Wings of Axios
 
 ## Instructions for Level 1
 
